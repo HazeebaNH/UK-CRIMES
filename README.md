@@ -1,4 +1,4 @@
-# UK-Crime_Analysis
+# UK Lockdown Period Crime Data Analysis
 This is a project for assessing the impact of COVID-19 lockdowns on violent crime rates in UK.
 
 ## Introduction: The Crime Analysis task and Approach taken to the problem
